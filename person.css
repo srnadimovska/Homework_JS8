@@ -1,0 +1,17 @@
+#person-div {
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    
+    
+}
+
+.person {
+
+    background-color: rgb(196, 220, 255);
+    width: 350px;
+    border-radius: 15px;
+    padding: 10px 15px;
+    font-family: sans-serif;
+    color:rgb(149, 99, 34); 
+}
